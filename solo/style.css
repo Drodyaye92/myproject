@@ -1,0 +1,50 @@
+                  body {
+                      background-image: url(images/background-simplon.svg);
+                      background-color: rgba(228, 131, 131, 0.514);
+                  }
+                  
+                  #middle {
+                      text-align: center;
+                  }
+                  
+                  .design {
+                      border: 1px solid gray;
+                      box-shadow: 2px 5px 10px 2px black;
+                      width: 600px;
+                      height: 700px;
+                      margin-left: 400px;
+                  }
+                  
+                  .para {
+                      display: block;
+                      margin-right: 50px;
+                  }
+                  
+                  .textinput {
+                      width: 600px;
+                      border: 2px solid #a37aff;
+                      border-radius: 5px;
+                      height: 30px;
+                      margin-top: 15px;
+                      font-size: 18px;
+                      font-family: "Bahnschrift";
+                      color: #a37aff;
+                      padding: 2px;
+                  }
+                  
+                  .button {
+                      cursor: pointer;
+                      width: 100px;
+                      height: 40px;
+                      background-color: #6037b84f;
+                      border: 2px solid white;
+                      border-radius: 8px;
+                      color: white;
+                      font-size: 18px;
+                      font-family: "Bahnschrift";
+                      margin-left: 250px;
+                  }
+                  
+                  .change {
+                      margin-left: 250px;
+                  }
