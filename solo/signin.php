@@ -17,7 +17,15 @@
    <h2 class="para">Password
    <input type="password" class="textinput" name="password" placeholder="Password" required></h2>
     <button type="submit" class="button" name="connexion" value="submit">connexion</button>
-    </form> 
+     
+    <button onclick="myFunction()" id="page">Decouvrir </button>
+    </form>
+    <script>
+function myFunction() {
+  location.replace("../index.php")
+
+}
+</script>
      <a href="login.php" class="change">Creer un compte</a>
     </div>
 </body>

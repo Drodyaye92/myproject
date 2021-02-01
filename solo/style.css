@@ -47,4 +47,20 @@
                   
                   .change {
                       margin-left: 250px;
+                      margin-top: 15px;
+                      display: block;
+                  }
+                  
+                  #page {
+                      display: block;
+                      margin-left: 250px;
+                      margin-top: 10px;
+                      background-color: #b908844f;
+                      border-radius: 8px;
+                      font-family: "Bahnschrift";
+                      color: white;
+                      font-size: 18px;
+                      width: 100px;
+                      height: 40px;
+                      border: 2px solid white;
                   }
